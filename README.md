@@ -9,7 +9,7 @@
 
 <header>
   <h1>📚 School Clubs Management System</h1>
-  <p>Manage clubs, events, members, and reservations بسهولة وفعالية</p>
+  <p>Manage clubs, events, members, and reservations</p>
 </header>
 
 <main>
